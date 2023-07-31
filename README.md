@@ -1,10 +1,10 @@
 <h2 align="center">
-       ASDASDASD WEBSITE Website<strong>;</strong> 😼
+       IDK Website<strong>;</strong> 😼
 <br>
 
 # Links
-- 🔗 [Youtube Channel](https://www.youtube.com/channel/UC9_kma0SOd-oSe24gqpqqCA)
-- 🔗 [Support Discord](https://discord.com/users/394251966571872256)
+- 🔗 [Youtube Channel](roshdevlmao.github.io)
+- 🔗 [Support Discord](roshdevlmao.github.io)
 
 
 # Screenshot
